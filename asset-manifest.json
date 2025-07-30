@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developer-portfolio/static/css/main.5cf530aa.css",
-    "main.js": "/developer-portfolio/static/js/main.3b234bde.js",
+    "main.js": "/developer-portfolio/static/js/main.99127e02.js",
     "static/css/64.bba8fa55.chunk.css": "/developer-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/developer-portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/developer-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -11,12 +11,12 @@
     "static/media/Agustina.woff": "/developer-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/UTA_logo.png": "/developer-portfolio/static/media/UTA_logo.9c7578048f84ccaf8169.png",
     "static/media/apple_logo.jpg": "/developer-portfolio/static/media/apple_logo.678df002442f726eceb5.jpg",
+    "static/media/aws_developer_logo.png": "/developer-portfolio/static/media/aws_developer_logo.c4679e61b2ff4bb6a803.png",
     "static/media/manOnTable.svg": "/developer-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/Kubernetes_logo.png": "/developer-portfolio/static/media/Kubernetes_logo.65fc92cf180efef31388.png",
     "static/media/contactMailDark.svg": "/developer-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/developer-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/googleAssistantLogo.webp": "/developer-portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/Electronic_Arts_logo.png": "/developer-portfolio/static/media/Electronic_Arts_logo.6ea0ec46be7dac2bd679.png",
-    "static/media/codeInLogo.webp": "/developer-portfolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/developer-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "static/media/resume.pdf": "/developer-portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/saayaHealthLogo.webp": "/developer-portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
@@ -24,7 +24,7 @@
     "index.html": "/developer-portfolio/index.html",
     "static/media/talksCardBack.svg": "/developer-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5cf530aa.css.map": "/developer-portfolio/static/css/main.5cf530aa.css.map",
-    "main.3b234bde.js.map": "/developer-portfolio/static/js/main.3b234bde.js.map",
+    "main.99127e02.js.map": "/developer-portfolio/static/js/main.99127e02.js.map",
     "64.bba8fa55.chunk.css.map": "/developer-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/developer-portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/developer-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.5cf530aa.css",
-    "static/js/main.3b234bde.js"
+    "static/js/main.99127e02.js"
   ]
 }
